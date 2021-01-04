@@ -2,7 +2,7 @@
 
 Flutter extract text from image using Tesseract OCR package
 
-## Getting Started
+## YouTube Link
 
 [Flutter extract text from image | Tesseract OCR package](https://youtu.be/dtpOdjPJMPo)
 
